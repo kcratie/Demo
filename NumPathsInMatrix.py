@@ -1,6 +1,6 @@
 from math import floor
 
-
+# bbbbb
 class Solution:
     """
     Uses the valid area under the triangle with base start and target
